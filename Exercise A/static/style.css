@@ -1,0 +1,13 @@
+body {background-color: rgb(63, 101, 156);}
+
+h1 {color: rgb(235, 145, 160);}
+
+body button {
+    background-color: #204b04;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: default;
+    margin-top: 10px;
+}

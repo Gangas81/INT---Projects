@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(63, 101, 156);
+}
+
+h2 {
+    color: rgb(229, 128, 145);
+    position: absolute;
+    left: 40%; 
+    top: 150px; 
+    font-size: 60px; 
+    font-family: Times New Roman, sans-serif;
+}
+
+#result {
+    position: absolute;
+    top: 300px; /* Adjust as needed */
+    left: 900px;
+    color: rgb(245, 11, 11);
+}
+
+div {
+    /* Adjust the position so it doesn't overlap with #result */
+    color: rgb(238, 16, 16);
+    position: absolute;
+    top: 300px; /* Place it below #result */
+    left: 700px;
+    max-width: 899px;
+    margin: auto;
+    background: #bdc8d6fd;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    /* Other styling */
+}
+

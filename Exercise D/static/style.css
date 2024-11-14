@@ -1,0 +1,59 @@
+body {background-color: rgb(63, 101, 156);}
+
+h2 {
+    color: rgb(229, 128, 145);
+    position: absolute;
+    left: 800px; 
+    top: 150px; 
+    
+}
+
+body button {
+    background-color: #0b0c0b;
+    color: rgb(233, 30, 30);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: default;
+    margin-top: 10px;
+    
+}
+
+.container {
+    max-width: 300px;
+    margin: auto;
+    background: #192722;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    position: absolute;
+    left: 50%; 
+    top: 50%; 
+}
+
+form { 
+    color: rgb(206, 35, 63);
+    position: absolute;
+    left: 800px; 
+    top: 250px; 
+    max-width: 200px;
+    margin: auto;
+    background: #10d490;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 8px;
+} 
+
+div {
+    color: rgb(12, 11, 11);
+    position: absolute;
+    left: 800px; 
+    top: 350px; 
+    max-width: 899px;
+    margin: auto;
+    background: #3778ccfd;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 8px;
+} 
+
+    
